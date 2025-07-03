@@ -2,4 +2,6 @@
 Ditto Ryanda
 JCDSVL 07
 
-Capstone project ini berisi tentang analisa data sebuah perusahaan e-commerce di Pakistan. Data yang diberikan adalah informasi dari setiap order yang terjadi di e-commerce tersebut pada rentang tahun 2016-2018. Fokus pada analisa ini adalah memberikan sejumlah insight yang nantinya akan digunakan perusahaan untuk menentukan strategi agar angka penjualan dapat meningkat. Setelah memberikan insight, nantinya juga akan memberikan saran-saran yang dapat menjadi pertimbangan untuk perusahaan dalam mengambil keputusan.
+This capstone project analyzes transactional data from an e-commerce company based in Pakistan, covering orders placed between 2016 and 2018. The primary objective is to generate valuable insights from this data that can help the company develop strategies to increase sales performance.
+
+The analysis explores customer purchasing behavior, transaction patterns, and revenue contributions, applying data preprocessing, RFM (Recency, Frequency, Monetary) segmentation, and K-Means clustering to identify distinct customer groups. Based on these findings, actionable recommendations are provided to support data-driven decision-making for improving customer retention, targeting high-value segments, and boosting overall revenue growth.
